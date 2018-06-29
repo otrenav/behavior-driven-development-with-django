@@ -1,0 +1,4 @@
+Django
+behave-django
+factory-boy
+selenium
