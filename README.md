@@ -1,5 +1,5 @@
 
-| [Website](http://links.otrenav.com/website) | [Twitter](http://links.otrenav.com/twitter) | [LinkedIn](http://links.otrenav.com/linkedin)  | [GitHub](http://links.otrenav.com/github) | [GitLab](http://links.otrenav.com/gitlab) | [CodeMentor](http://links.otrenav.com/codementor) |
+[Delta Lab](https://links.deltalab.ai/website) | [Twitter](https://links.deltalab.ai/twitter) | [LinkedIn](https://links.deltalab.ai/linkedin)
 
 ---
 
@@ -8,7 +8,7 @@
 - Omar Trejo
 - February, 2016
 
-The objective is to show how `behave` can be used to do BDD with Django.
+POC to show how `behave` can be used to do BDD with Django.
 
 ## Requirements
 
@@ -46,6 +46,4 @@ $ ./manage.py behave
 
 ---
 
-> "The best ideas are common property."
->
-> —Seneca
+> "We are the people we have been waiting for."
